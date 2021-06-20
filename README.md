@@ -1,4 +1,4 @@
-# OpenGL
+# OpenGL Grocery
 
 Learning and Practice of Modern OpenGL.
 
@@ -12,7 +12,7 @@ Learning and Practice of Modern OpenGL.
 
 ### On macOS
 
-Install packages below via *Homebrew*. In addition, you may also need to install *Xcode*, which encompasses C/C++ build tools and essential frameworks for development.
+Install packages listed below via *Homebrew*. In addition, you may also need to install *Xcode*, which encompasses C/C++ build tools and essential frameworks for development.
 
 ```bash
 brew install glew
