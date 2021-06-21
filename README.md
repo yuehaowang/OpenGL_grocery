@@ -1,6 +1,6 @@
 # OpenGL Grocery
 
-Learning and Practice of Modern OpenGL.
+The Grocery of Modern OpenGL.
 
 
 ## Prerequisites
